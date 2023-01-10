@@ -1,4 +1,3 @@
-<br>
 <h2>Olá, meu nome é Lucas Garcia 🐱‍👤</h2>
 
 ***
