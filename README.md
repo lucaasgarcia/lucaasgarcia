@@ -16,7 +16,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['PHP', 'JavaScript', ];
+  linguagens  = ['PHP', 'JavaScript'];
   aplicacoes  = ['vsCode', 'PHPStorm','ATOM'];
   frameworks = ['Laravel'];
 }
