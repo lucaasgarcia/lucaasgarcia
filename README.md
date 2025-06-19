@@ -2,8 +2,7 @@
 
 💬 Possuo foco em desenvolvimento com PHP, Java Script e estou aberto para outras tecnologias<br>
 sigo estudando para aprimorar meus conhecimentos dia após dia.
-<br>Estudante Programação, Cursando Analise e Desenvolvimento de Sistemas possuo Inglês Intermediário.
-
+<br>Software engineering 📚💻
 ***
 ```js
 import Desenvolvedor from 'lucaasgarcia';
